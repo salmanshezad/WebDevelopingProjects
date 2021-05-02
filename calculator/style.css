@@ -1,0 +1,47 @@
+title{
+
+    margin-bottom: 10px;
+    
+    text-align:center;
+    
+    width: 210px;
+    
+    color:red;
+    
+    font-weight: bold;
+    
+    font-style: oblique;
+    
+    font-family: cursive;
+    
+    background-color: seashell;
+    
+    border: solid black 2px;
+    
+    }
+    
+    input[type="button"]
+    
+    {
+    
+    background-color:blue;
+    
+    color: white;
+    
+    border: solid red 2px;
+    
+    width:100%
+    
+    }
+    
+    input[type="text"]
+    
+    {
+    
+    background-color:white;
+    
+    border: solid blue 2px;
+    
+    width:100%
+    
+    }

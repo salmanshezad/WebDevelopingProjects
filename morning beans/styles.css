@@ -1,0 +1,77 @@
+body {
+    background: white;
+    color: wheat;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://drive.google.com/uc?id=1ab2cR7E8jMU5vtale8vqTSJUgx3FVFW8");
+    background-size: 100%;
+    background-position: center;
+    height: 400px;
+    padding: 20px;
+    text-align: center;
+  }
+  header a {
+    color: rgb(187, 145, 28);
+    
+    text-transform: uppercase;
+
+  }
+  
+  header .logo a {
+    background-image: url("images/logo-2x.png");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 80px; 
+    position: relative;
+    text-indent: -9999999px;
+    top: -30px;
+    width: 300px;
+  }
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+   
+  }
+   h1 {text-align: center;}
+   p {text-align: center;}
+   a {text-align: center;}
+
+figure {text-align: center;}
+ 
+ figure img {
+ 
+    border: 1px yellow;
+    border-radius: 50%;
+    box-shadow:wheat;
+    width: 500px;
+    padding: 0%;
+  }
+  
+  footer {
+    background: black;
+    color: white;
+    font-size: 12px;
+    padding: 20px 20px;
+    text-align: center;
+  }
+  h1 {color: whitesmoke;}
+  h2 {color: white;
+ text-align: left; 
+  } 
+  ul {color: burlywood;}
+p a {color: cadetblue;}
+p {text-align: center;}
+
+iframe {color: yellow;
+font-size: 15px;}
